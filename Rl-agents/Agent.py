@@ -24,6 +24,8 @@ from torch.nn.utils import clip_grad_norm_
 from networks import Critic, Actor, DDQN_Net
 import math
 import copy
+from Agent import DQN, DDQN, A2C, DSAC, DDPG, Random_Battery, Random
+
 
 
 
