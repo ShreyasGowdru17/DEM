@@ -9,7 +9,7 @@ import gym
 from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor
 from house import registration
 #from Agent import DDPG, DQN, DDQN
-from Agent import DQN, DDQN, A2C, DSAC, DDPG, Random_Battery, Random
+# from Agent import DQN, DDQN, A2C, DSAC, DDPG, Random_Battery, Random
 from MultiAgent import Multi_Agent
 import time
 import pylab
